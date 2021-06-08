@@ -1,1 +1,2 @@
 this is test commit for reset 
+this is test for commit reset1 
